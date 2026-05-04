@@ -39,41 +39,56 @@
 
 ## ⚙️ 4. Tecnologías habilitadoras digitales (THD)
 
-- Tecnología 1:
-  - Uso en la empresa:
-- Tecnología 2:
-  - Uso en la empresa:
-- Tecnología 3:
-  - Uso en la empresa:
-- Tecnología 4:
-  - Uso en la empresa:
-- Tecnología 5:
-  - Uso en la empresa:
+- **Inteligencia Artificial**
+  - Uso en la empresa: Chatbots para atención al cliente  
+
+- **Big Data**
+  - Uso en la empresa: Análisis de comportamiento de usuarios  
+
+- **Cloud Computing**
+  - Uso en la empresa: Almacenamiento en la nube  
+
+- **CMS (WordPress + Blocksy)**
+  - Uso en la empresa: Gestión del sitio web  
+
+- **Automatización (RPA)**
+  - Uso en la empresa: Gestión automática de pedidos  
 
 ---
 
 ## 📊 5. Datos y tratamiento de la información
 
-- Tipos de datos que genera la empresa:
-- Cómo se capturan:
-- Cómo se almacenan:
-- Cómo se procesan:
-- Cómo se analizan:
-- Uso en la toma de decisiones:
+- **Tipos de datos que genera la empresa:**  
+  Datos de clientes, pedidos, navegación web  
+
+- **Cómo se capturan:**  
+  Formularios web, cookies, compras online  
+
+- **Cómo se almacenan:**  
+  Bases de datos en la nube  
+
+- **Cómo se procesan:**  
+  Sistemas ERP y CRM  
+
+- **Cómo se analizan:**  
+  Herramientas de analítica web  
+
+- **Uso en la toma de decisiones:**  
+  Optimización de campañas y productos  
 
 ---
 
 ## 🔐 6. Seguridad y riesgos
 
 ### Riesgos identificados
-1.
-2.
-3.
+1. Ciberataques  
+2. Robo de datos  
+3. Fallos del sistema  
 
 ### Medidas de protección
-1.
-2.
-3.
+1. Certificados SSL y cifrado  
+2. Copias de seguridad  
+3. Firewalls y antivirus  
 
 ---
 
