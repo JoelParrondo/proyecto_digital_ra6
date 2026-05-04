@@ -94,41 +94,54 @@
 
 ## 👨‍💻 7. Recursos humanos
 
-- Nuevos perfiles necesarios:
-- Formación requerida:
-- Cambios organizativos:
+- **Nuevos perfiles necesarios:**  
+  Especialista en marketing digital, analista de datos  
+
+- **Formación requerida:**  
+  SEO, analítica web, ciberseguridad  
+
+- **Cambios organizativos:**  
+  Digitalización de procesos y trabajo remoto  
 
 ---
 
 ## 🔗 8. Integración de sistemas
 
-- ERP utilizado o propuesto:
-- CRM utilizado o propuesto:
-- BPM / automatización:
-- Integración entre sistemas:
+- **ERP utilizado o propuesto:** Odoo  
+- **CRM utilizado o propuesto:** HubSpot  
+- **BPM / automatización:** Zapier  
+- **Integración entre sistemas:** API y sincronización en la nube  
 
 ---
 
 ## 💡 9. Valor del proyecto
 
-- Beneficios económicos:
-- Mejora operativa:
-- Ventaja competitiva:
-- Riesgos de no digitalizar:
+- **Beneficios económicos:** Incremento de ventas  
+- **Mejora operativa:** Automatización y eficiencia  
+- **Ventaja competitiva:** Mejor experiencia de usuario  
+- **Riesgos de no digitalizar:** Pérdida de clientes y competitividad  
 
 ---
 
 ## 📐 10. Modelado UML (OBLIGATORIO)
 
 ### Casos de uso
-- Actores:
-- Funcionalidades principales:
+- **Actores:** Cliente, Administrador  
+- **Funcionalidades principales:**  
+  - Comprar producto  
+  - Gestionar pedidos  
+  - Atender consultas  
 
 ### Diagrama de clases
-- Entidades principales:
-- Relaciones:
+- **Entidades principales:**  
+  Cliente, Pedido, Producto, Pago  
+
+- **Relaciones:**  
+  - Cliente realiza Pedido  
+  - Pedido contiene Productos  
 
 ### Diagrama de secuencia (opcional)
-- Caso representado:
+- **Caso representado:**  
+  Proceso de compra online  
 
 ---
