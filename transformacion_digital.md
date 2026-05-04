@@ -1,28 +1,28 @@
 # 🚀 Proyecto de Transformación Digital (RA6)
 
 ## 🧑‍💼 1. Empresa
-- Nombre de la empresa:
-- Sector:
-- Descripción breve:
+- **Nombre de la empresa:** TechMobile Solutions  
+- **Sector:** Tecnología / Comercio electrónico  
+- **Descripción breve:** Empresa dedicada a la venta online de smartphones, accesorios y servicios técnicos.
 
 ---
 
 ## 🎯 2. Objetivos estratégicos (SMART)
 
 ### Objetivo 1
-- Descripción:
-- Métrica:
-- Plazo:
+- **Descripción:** Incrementar las ventas online mediante optimización web  
+- **Métrica:** +25% en ventas mensuales  
+- **Plazo:** 6 meses  
 
 ### Objetivo 2
-- Descripción:
-- Métrica:
-- Plazo:
+- **Descripción:** Mejorar la experiencia del cliente en la web  
+- **Métrica:** Reducir la tasa de rebote en un 15%  
+- **Plazo:** 4 meses  
 
 ### Objetivo 3
-- Descripción:
-- Métrica:
-- Plazo:
+- **Descripción:** Automatizar la gestión de pedidos  
+- **Métrica:** Reducir el tiempo de procesamiento en un 30%  
+- **Plazo:** 5 meses  
 
 ---
 
@@ -30,9 +30,10 @@
 
 | Área | Función | Sub-objetivo digital | Impacto esperado |
 |------|--------|----------------------|------------------|
-|      |        |                      |                  |
-|      |        |                      |                  |
-|      |        |                      |                  |
+| Marketing | Promoción | SEO y campañas digitales | Mayor visibilidad |
+| Ventas | Comercialización | Implementación eCommerce | Aumento de ingresos |
+| Logística | Envíos | Automatización de pedidos | Reducción de errores |
+| Atención al cliente | Soporte | Chatbots | Mejora de satisfacción |
 
 ---
 
